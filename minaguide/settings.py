@@ -25,7 +25,7 @@ SECRET_KEY = '503_(1^vtg%hey1009dk@c@f=ap@xq2j15^pqfi#%+-ey!4-%h'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dht.review']
+ALLOWED_HOSTS = ['myxydomain.com']
 
 
 # Application definition
